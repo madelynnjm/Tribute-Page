@@ -1,0 +1,10 @@
+p,#title, #img-caption{
+  text-align:center;
+}
+
+img{
+  max-width:100%;
+  height:auto;
+  margin:auto;
+  display:block;
+}
